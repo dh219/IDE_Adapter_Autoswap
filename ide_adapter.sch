@@ -1238,4 +1238,11 @@ Text Label 3000 5000 2    50   ~ 0
 DD4
 Wire Wire Line
 	2600 5000 3150 5000
+NoConn ~ 3150 6000
+NoConn ~ 3150 5900
+NoConn ~ 3150 5800
+NoConn ~ 3150 5700
+NoConn ~ 3150 5600
+NoConn ~ 4750 6000
+NoConn ~ 4750 6100
 $EndSCHEMATC
