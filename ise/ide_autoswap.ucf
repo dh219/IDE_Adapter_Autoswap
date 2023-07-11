@@ -1,0 +1,51 @@
+#NET "LDS" LOC = "P27" ;
+#NET "FC<1>" LOC = "P25" ;
+
+NET D<15> LOC = "P45" ;
+NET D<14> LOC = "P43" ;
+NET D<13> LOC = "P40" ;
+NET D<12> LOC = "P38" ;
+NET D<11> LOC = "P35" ;
+NET D<10> LOC = "P33" ;
+NET D<9> LOC = "P31" ;
+NET D<8> LOC = "P25" ;
+NET D<7> LOC = "P27" ;
+NET D<6> LOC = "P32" ;
+NET D<5> LOC = "P34" ;
+NET D<4> LOC = "P36" ;
+NET D<3> LOC = "P39" ;
+NET D<2> LOC = "P42" ;
+NET D<1> LOC = "P44" ;
+NET D<0> LOC = "P46" ;
+
+NET DD<15> LOC = "P7" ;
+NET DD<14> LOC = "P9" ;
+NET DD<13> LOC = "P11" ;
+NET DD<12> LOC = "P13" ;
+NET DD<11> LOC = "P16" ;
+NET DD<10> LOC = "P18" ;
+NET DD<9> LOC = "P20" ;
+NET DD<8> LOC = "P23" ;
+NET DD<7> LOC = "P24" ;
+NET DD<6> LOC = "P22" ;
+NET DD<5> LOC = "P19" ;
+NET DD<4> LOC = "P17" ;
+NET DD<3> LOC = "P15" ;
+NET DD<2> LOC = "P12" ;
+NET DD<1> LOC = "P10" ;
+NET DD<0> LOC = "P8" ;
+
+
+NET _CS<1> LOC = "P58" ;
+NET _CS<0> LOC = "P59" ;
+NET _LED LOC = "P60" ;
+NET _RESET LOC = "P64" ;
+	
+NET _DIOW LOC = "P49" ;
+NET _DIOR LOC = "P50" ;
+NET INTRQ LOC = "P51" ;
+
+NET DA<0> LOC = "P57" ;
+NET DA<1> LOC = "P56" ;
+NET DA<2> LOC = "P52" ;
+
